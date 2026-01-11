@@ -29,7 +29,7 @@ function App() {
   }
   return (
     <div style={styles}>
-        <button style={btn} onClick={toggleTheme}>click me!</button>
+        <button style={btn} onClick={toggleTheme}>click me</button>
     </div>
   )
 }
